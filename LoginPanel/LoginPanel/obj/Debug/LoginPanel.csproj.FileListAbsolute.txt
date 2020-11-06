@@ -1,0 +1,15 @@
+C:\Users\melih\source\repos\LoginPanel\LoginPanel\bin\Debug\LoginPanel.exe.config
+C:\Users\melih\source\repos\LoginPanel\LoginPanel\bin\Debug\LoginPanel.exe
+C:\Users\melih\source\repos\LoginPanel\LoginPanel\bin\Debug\LoginPanel.pdb
+C:\Users\melih\source\repos\LoginPanel\LoginPanel\obj\Debug\LoginPanel.csprojAssemblyReference.cache
+C:\Users\melih\source\repos\LoginPanel\LoginPanel\obj\Debug\MainWindow.g.cs
+C:\Users\melih\source\repos\LoginPanel\LoginPanel\obj\Debug\App.g.cs
+C:\Users\melih\source\repos\LoginPanel\LoginPanel\obj\Debug\LoginPanel_MarkupCompile.cache
+C:\Users\melih\source\repos\LoginPanel\LoginPanel\obj\Debug\LoginPanel_MarkupCompile.lref
+C:\Users\melih\source\repos\LoginPanel\LoginPanel\obj\Debug\MainWindow.baml
+C:\Users\melih\source\repos\LoginPanel\LoginPanel\obj\Debug\LoginPanel.g.resources
+C:\Users\melih\source\repos\LoginPanel\LoginPanel\obj\Debug\LoginPanel.Properties.Resources.resources
+C:\Users\melih\source\repos\LoginPanel\LoginPanel\obj\Debug\LoginPanel.csproj.GenerateResource.cache
+C:\Users\melih\source\repos\LoginPanel\LoginPanel\obj\Debug\LoginPanel.csproj.CoreCompileInputs.cache
+C:\Users\melih\source\repos\LoginPanel\LoginPanel\obj\Debug\LoginPanel.exe
+C:\Users\melih\source\repos\LoginPanel\LoginPanel\obj\Debug\LoginPanel.pdb
